@@ -1,0 +1,216 @@
+{
+    "coffeeShops": [
+        {
+            "name": "Coffee Shop 1",
+            "img": "https://loremflickr.com/640/480",
+            "status": false,
+            "address": "Address 1",
+            "id": 1
+        },
+        {
+            "name": "Coffee Shop 2",
+            "img": "https://loremflickr.com/640/480",
+            "status": false,
+            "address": "Address 2",
+            "id": 2
+        },
+        {
+            "name": "Coffee Shop 3",
+            "img": "https://loremflickr.com/640/480",
+            "status": false,
+            "address": "Address 3",
+            "id": 3
+        },
+        {
+            "name": "Coffee Shop 4",
+            "img": "https://loremflickr.com/640/480",
+            "status": false,
+            "address": "Address 4",
+            "id": 4
+        },
+        {
+            "name": "Coffee Shop 5",
+            "img": "https://loremflickr.com/640/480",
+            "status": false,
+            "address": "Address 5",
+            "id": 5
+        }
+    ],
+    "coffeeShopDrinks": [
+        {
+            "name": "Drink 1",
+            "img": "https://loremflickr.com/640/480",
+            "price": "20$",
+            "id": 1,
+            "shop_id": 1
+        },
+        {
+            "name": "Drink 2",
+            "img": "https://loremflickr.com/640/480",
+            "price": "15$",
+            "id": 2,
+            "shop_id": 1
+        },
+        {
+            "name": "Drink 3",
+            "img": "https://loremflickr.com/640/480",
+            "price": "18$",
+            "id": 3,
+            "shop_id": 1
+        },
+        {
+            "name": "Drink 4",
+            "img": "https://loremflickr.com/640/480",
+            "price": "22$",
+            "id": 4,
+            "shop_id": 1
+        },
+        {
+            "name": "Drink 5",
+            "img": "https://loremflickr.com/640/480",
+            "price": "25$",
+            "id": 5,
+            "shop_id": 1
+        },
+        {
+            "name": "Drink 1",
+            "img": "https://loremflickr.com/640/480",
+            "price": "20$",
+            "id": 6,
+            "shop_id": 2
+        },
+        {
+            "name": "Drink 2",
+            "img": "https://loremflickr.com/640/480",
+            "price": "15$",
+            "id": 7,
+            "shop_id": 2
+        },
+        {
+            "name": "Drink 3",
+            "img": "https://loremflickr.com/640/480",
+            "price": "18$",
+            "id": 8,
+            "shop_id": 2
+        },
+        {
+            "name": "Drink 4",
+            "img": "https://loremflickr.com/640/480",
+            "price": "22$",
+            "id": 9,
+            "shop_id": 2
+        },
+        {
+            "name": "Drink 5",
+            "img": "https://loremflickr.com/640/480",
+            "price": "25$",
+            "id": 10,
+            "shop_id": 2
+        },
+        {
+            "name": "Drink 1",
+            "img": "https://loremflickr.com/640/480",
+            "price": "20$",
+            "id": 11,
+            "shop_id": 3
+        },
+        {
+            "name": "Drink 2",
+            "img": "https://loremflickr.com/640/480",
+            "price": "15$",
+            "id": 12,
+            "shop_id": 3
+        },
+        {
+            "name": "Drink 3",
+            "img": "https://loremflickr.com/640/480",
+            "price": "18$",
+            "id": 13,
+            "shop_id": 3
+        },
+        {
+            "name": "Drink 4",
+            "img": "https://loremflickr.com/640/480",
+            "price": "22$",
+            "id": 14,
+            "shop_id": 3
+        },
+        {
+            "name": "Drink 5",
+            "img": "https://loremflickr.com/640/480",
+            "price": "25$",
+            "id": 15,
+            "shop_id": 3
+        },
+        {
+            "name": "Drink 1",
+            "img": "https://loremflickr.com/640/480",
+            "price": "20$",
+            "id": 16,
+            "shop_id": 4
+        },
+        {
+            "name": "Drink 2",
+            "img": "https://loremflickr.com/640/480",
+            "price": "15$",
+            "id": 17,
+            "shop_id": 4
+        },
+        {
+            "name": "Drink 3",
+            "img": "https://loremflickr.com/640/480",
+            "price": "18$",
+            "id": 18,
+            "shop_id": 4
+        },
+        {
+            "name": "Drink 4",
+            "img": "https://loremflickr.com/640/480",
+            "price": "22$",
+            "id": 19,
+            "shop_id": 4
+        },
+        {
+            "name": "Drink 5",
+            "img": "https://loremflickr.com/640/480",
+            "price": "25$",
+            "id": 20,
+            "shop_id": 4
+        },
+        {
+            "name": "Drink 1",
+            "img": "https://loremflickr.com/640/480",
+            "price": "20$",
+            "id": 21,
+            "shop_id": 5
+        },
+        {
+            "name": "Drink 2",
+            "img": "https://loremflickr.com/640/480",
+            "price": "15$",
+            "id": 22,
+            "shop_id": 5
+        },
+        {
+            "name": "Drink 3",
+            "img": "https://loremflickr.com/640/480",
+            "price": "18$",
+            "id": 23,
+            "shop_id": 5
+        },
+        {
+            "name": "Drink 4",
+            "img": "https://loremflickr.com/640/480",
+            "price": "22$",
+            "id": 24,
+            "shop_id": 5
+        },
+        {
+            "name": "Drink 5",
+            "img": "https://loremflickr.com/640/480",
+            "price": "25$",
+            "id": 25,
+            "shop_id": 5
+        }
+    ]
+}
